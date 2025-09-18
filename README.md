@@ -32,8 +32,9 @@
 ---
 
 ## 📬 Connect With Me
-## - 🌐 Portfolio: [YourPortfolioLink.com](https://yourportfoliolink.com)  
-## - 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+<!-- 🌐 Portfolio: [YourPortfolioLink.com](https://yourportfoliolink.com)  
+## - 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  -->
+
 - 📧 Email: alisufyan2410@gmail.com
 - 🌐 Phone : 923172159160
 
