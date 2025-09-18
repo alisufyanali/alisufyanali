@@ -1,3 +1,44 @@
+# 👋 Hi, I'm Sufyan Ali  
+
+💻 **Full-Stack Web Developer (Laravel / PHP / CodeIgniter / React / WordPress)**  
+🚀 With **3+ years of professional experience** building **CRM, ERP, WordPress sites, and E-commerce platforms**.  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Backend**: Laravel, PHP, CodeIgniter  
+- **Frontend**: React, Inertia.js, Vue.js, Bootstrap, TailwindCSS  
+- **CMS / Platforms**: WordPress, WooCommerce  
+- **Databases**: MySQL, PostgreSQL  
+- **Other Tools**: Git, cPanel, REST APIs, Payment Gateways  
+
+---
+
+## 🔥 What I Do
+- ✅ Build **custom CRMs & ERPs** with role-based access control  
+- ✅ Develop **scalable E-commerce websites** (WooCommerce, Laravel)  
+- ✅ Create **custom WordPress plugins & themes**  
+- ✅ Integrate **APIs, Payment Gateways, and third-party services**  
+- ✅ Maintain and optimize **existing applications**  
+
+---
+
+## 📈 My Experience
+- 🏗️ 3+ years of experience in **Laravel & PHP development**  
+- ⚡ Worked on **CRM systems**, **ERP solutions**, and **E-commerce platforms**  
+- 🎯 Delivered **dozens of WordPress projects** including **custom themes, plugins, and integrations**  
+
+---
+
+## 📬 Connect With Me
+- 🌐 Portfolio: [YourPortfolioLink.com](https://yourportfoliolink.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- 📧 Email: yourname@example.com  
+
+---
+
+⭐️ *"Passionate about writing clean code, building scalable systems, and delivering solutions that help businesses grow."*  
 ## Hi there 👋
 
 <!--
