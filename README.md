@@ -34,7 +34,7 @@
 <div align="center" style="margin: 20px 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="Laravel logo" />
+  <img src="https://images.seeklogo.com/logo-png/58/2/laravel-logo-png_seeklogo-584280.png" height="40" alt="Laravel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" height="40" alt="CodeIgniter logo" />
   <img width="12" />
